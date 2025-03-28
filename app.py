@@ -7,7 +7,7 @@ import base64
 from io import BytesIO
 
 # Constants
-WEBHOOK_URL = "HTTPS://cs-n8n-pro.onrender.com:443/webhook/agente_conversacional"
+WEBHOOK_URL = "HTTPS://cs-n8n-pro.onrender.com:443/webhook/0a16fb34-dbe4-47b3-aa75-448c2bf1b505"
 BEARER_TOKEN = "viajesCamino1"
 
 def generate_session_id():
